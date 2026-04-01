@@ -1,6 +1,4 @@
-# claude-code-sourcemap
-
-[![linux.do](https://img.shields.io/badge/linux.do-huo0-blue?logo=linux&logoColor=white)](https://linux.do)
+# cc-sourcemap
 
 > [!WARNING]
 > This repository is **unofficial** and is reconstructed from the public npm package and source map analysis, **for research purposes only**.
